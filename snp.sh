@@ -11,7 +11,7 @@
 ###
 ### specify the alignment folder
 ###
-alignment_folder="/home/liu3zhen/teaching/SNP/data"
+alignment_folder="/home/liu3zhen/teaching/SNP/alignment"
 bam1="MG1655.parse.bam"
 bam2="DH10B.parse.bam"
 
